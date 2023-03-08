@@ -77,7 +77,7 @@ header button {
   align-items: center;
 }
 #main-page .main-grid-01 .main-grid-01-child span {
-  writing-mode: sideways-lr;
+  writing-mode: vertical-rl;
   font-family: "MuseoModerno", cursive;
   font-size: 60px;
   color: #232323;
